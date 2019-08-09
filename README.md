@@ -7,7 +7,7 @@ This is a clone of two seperate parts of the same Ravem Internet drone made for 
 * https://github.com/Dohxis
 * https://github.com/Luksys3
 * https://github.com/vodpox
-* https://github.com/Rokiis
+* https://github.coventry.ac.uk/navickar/
 
 # Ravem-Web
 
