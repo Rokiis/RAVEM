@@ -2,6 +2,8 @@
 
 This is a clone of two seperate parts of the same Ravem Internet drone made for Barclays "Tech Academy" contest.
 
+[![RAVEM](https://github.com/Rokiis/RAVEM/blob/master/ravem.PNG)](https://youtu.be/JTo_joFHOMs)
+
 ## This project was made in collaboration with:
 * https://github.com/AinoraZ
 * https://github.com/Dohxis
