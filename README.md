@@ -5,11 +5,11 @@ This is a clone of two seperate parts of the same Ravem Internet drone made for 
 [![RAVEM](https://github.com/Rokiis/RAVEM/blob/master/ravem.PNG)](https://youtu.be/JTo_joFHOMs)
 
 ## This project was made in collaboration with:
-* https://github.com/AinoraZ
-* https://github.com/Dohxis
-* https://github.com/Luksys3
-* https://github.com/vodpox
-* https://github.coventry.ac.uk/navickar/
+* [Rokiis](https://github.com/Rokiis)
+* [AinoraZ](https://github.com/AinoraZ)
+* [Dohxis](https://github.com/Dohxis)
+* [Luksys3](https://github.com/Luksys3)
+* [Vodpox](https://github.com/vodpox)
 
 # Ravem-Web
 
