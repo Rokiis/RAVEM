@@ -1,5 +1,5 @@
 Flask==0.11.1	
-Jinja2==2.8	
+Jinja2==2.11.3	
 dronekit==2.9.0	
 eventlet==0.20.1	
 pymavlink==2.0.6
